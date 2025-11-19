@@ -1,2 +1,2 @@
-# chatbot
-project for python bootcamp
+# CST-StudyBot
+
